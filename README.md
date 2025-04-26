@@ -1,4 +1,4 @@
-# 🌱 Trashify - E-waste Detection App
+# 🌱 UnTrashify - E-waste Detection App
 
 <div align="center">
 
